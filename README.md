@@ -1,6 +1,5 @@
 🛒 Supermart Grocery Sales Analysis – Power BI Project Report
-1. Project Title:
-Retail Sales Performance Analysis for Supermart Using Power BI
+1. Project Title[Agriculture Project Report.docx](https://github.com/user-attachments/files/19985726/Agriculture.Project.Report.docx)
 ________________________________________
 2. Executive Summary:
 This Power BI project focuses on analyzing retail performance data from Supermart, a grocery chain operating across multiple cities. The dashboard provides a data-driven view of sales, profit, customer segmentation, and geographical performance. Key insights assist stakeholders in strategic planning, inventory optimization, and customer targeting.
